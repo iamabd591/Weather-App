@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+.name {
+    color: #fff;
+    font-size: 24px;
+    margin-left: 5px;
+}
+
+span {
+    font-size: 16px;
+}
+
+.city {
+    font-size: 50px;
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+}
+
+.search-bar {
+    width: 300px;
+    margin-top: 20px;
+}
+
+p {
+    color: #fff;
+}
